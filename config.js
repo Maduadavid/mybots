@@ -2,7 +2,7 @@
 
 
 require("./all/module")
-global.owner = "2348120055226" 
+global.owner = "2347066575685" 
 global.namaCreator = "𝐉𝐅𝐋𝐄𝐗 𝐎𝐆"
 global.autoJoin = false 
 global.antilink = false 
